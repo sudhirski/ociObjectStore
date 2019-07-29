@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.oracle.oci.sdk:oci-java-sdk-keymanagement:1.5.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../sudhirsr/.gradle/caches/modules-2/files-2.1/com.oracle.oci.sdk/oci-java-sdk-keymanagement/1.5.9/e83687c6df7f55fb4042af4b9f2431a2d374c7ff/oci-java-sdk-keymanagement-1.5.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

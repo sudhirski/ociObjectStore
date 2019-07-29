@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nimbusds:nimbus-jose-jwt:6.5.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../sudhirsr/.gradle/caches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/6.5.1/5cd4d7fe73673aeaa938fd542cf98c7d7860e40c/nimbus-jose-jwt-6.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

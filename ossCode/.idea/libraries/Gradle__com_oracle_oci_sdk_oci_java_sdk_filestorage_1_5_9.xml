@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.oracle.oci.sdk:oci-java-sdk-filestorage:1.5.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../sudhirsr/.gradle/caches/modules-2/files-2.1/com.oracle.oci.sdk/oci-java-sdk-filestorage/1.5.9/9560c9b9dcb67bef8d671c9140f76aedbe0a1110/oci-java-sdk-filestorage-1.5.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

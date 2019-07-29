@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.oracle.oci.sdk:oci-java-sdk-loadbalancer:1.5.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../sudhirsr/.gradle/caches/modules-2/files-2.1/com.oracle.oci.sdk/oci-java-sdk-loadbalancer/1.5.9/1aa7c1bcd4ff50f5d9c0e37c2e62bbc18cf511f3/oci-java-sdk-loadbalancer-1.5.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

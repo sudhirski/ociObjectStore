@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.oracle.oci.sdk:oci-java-sdk-healthchecks:1.5.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../sudhirsr/.gradle/caches/modules-2/files-2.1/com.oracle.oci.sdk/oci-java-sdk-healthchecks/1.5.9/d02604ebf84f81427a7b18da477f14fc8357c6a0/oci-java-sdk-healthchecks-1.5.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

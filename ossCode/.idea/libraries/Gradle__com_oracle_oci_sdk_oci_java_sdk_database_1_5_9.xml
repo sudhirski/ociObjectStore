@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.oracle.oci.sdk:oci-java-sdk-database:1.5.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../sudhirsr/.gradle/caches/modules-2/files-2.1/com.oracle.oci.sdk/oci-java-sdk-database/1.5.9/304fb05ef1abf7d8e126fc488cb7ef8e56fdf233/oci-java-sdk-database-1.5.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
