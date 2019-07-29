@@ -1,6 +1,3 @@
-/**
- * Copyright (c) 2019, Oracle and/or its affiliates. All rights reserved.
- */
 
 import com.oracle.bmc.auth.AuthenticationDetailsProvider;
 import com.oracle.bmc.auth.ConfigFileAuthenticationDetailsProvider;
